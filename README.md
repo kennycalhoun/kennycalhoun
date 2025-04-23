@@ -16,6 +16,7 @@ I’m passionate about translating complex business requirements into elegant te
 
 ## 🛠️ **Technical Expertise**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
